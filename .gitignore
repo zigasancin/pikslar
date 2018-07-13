@@ -1,0 +1,30 @@
+ Always ignore files with these extensions
+*.ai
+*.zip
+*.rar
+*.tgz
+*.psd
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+*.scssc
+*.mp4
+*.komodoproject
+*.kpf
+
+# Always ignore OS or Editor folders
+.DS_Store
+Thumbs.db
+.idea
+.master
+
+# Ignore folders
+docs
+temp
