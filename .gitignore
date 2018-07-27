@@ -28,7 +28,22 @@ Thumbs.db
 
 # Ignore folders
 avatarji
+bannerji
+banners/IPnumbers
+banners/images
+design
 docs
+doljemi
+pasice
+priznanja
 razstava
+small_banners/IPnumbers
+small_banners/images
 temp
 znalci
+
+# Always ignore config files, icons, etc.
+apple-touch-icon.png
+config.php
+favicon.ico
+phpinfo.php
